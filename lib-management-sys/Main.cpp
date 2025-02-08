@@ -1,9 +1,4 @@
 /*
-Program:- Library Managment System.
-Written by:- 	Megha Pal      (S1821082)
-				Akshay Khodade (S1821084)
-			    Hemanshu Patil (S1821092)
-			    Mohit Khedkar  (S1821095)
 PASSWORD FOR LIBRARIAN:- pass
 */
 
